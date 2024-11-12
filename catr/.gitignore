@@ -1,1 +1,4 @@
+.gitignore
 hammer
+target
+Cargo.lock
