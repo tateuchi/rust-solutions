@@ -1,0 +1,14 @@
+C:\Users\tatte\progress\rust\rust-solutions\my_echor\target\debug\deps\libassert_cmd-37ae54238a16116e.rmeta: C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src/lib.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\assert.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cargo.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cmd.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\output.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\color.rs C:\Users\tatte\progress\rust\rust-solutions\my_echor\target\debug\build\assert_cmd-4ea3bc4c70c7faf3\out/current_target.txt C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\../README.md
+
+C:\Users\tatte\progress\rust\rust-solutions\my_echor\target\debug\deps\assert_cmd-37ae54238a16116e.d: C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src/lib.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\assert.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cargo.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cmd.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\output.rs C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\color.rs C:\Users\tatte\progress\rust\rust-solutions\my_echor\target\debug\build\assert_cmd-4ea3bc4c70c7faf3\out/current_target.txt C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\../README.md
+
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src/lib.rs:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\assert.rs:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cargo.rs:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\cmd.rs:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\output.rs:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\color.rs:
+C:\Users\tatte\progress\rust\rust-solutions\my_echor\target\debug\build\assert_cmd-4ea3bc4c70c7faf3\out/current_target.txt:
+C:\Users\tatte\.cargo\registry\src\index.crates.io-6f17d22bba15001f\assert_cmd-2.0.16\src\../README.md:
+
+# env-dep:OUT_DIR=C:\\Users\\tatte\\progress\\rust\\rust-solutions\\my_echor\\target\\debug\\build\\assert_cmd-4ea3bc4c70c7faf3\\out
